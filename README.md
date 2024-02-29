@@ -10,6 +10,10 @@ vallealonsodc/vallealonsodc is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-## Hi, my name is Valle Alonso de Caso Ortiz
+## Hi, I'm Valle Alonso de Caso Ortiz
+
+I'm a final-year student of Bsc Health Engineering in the University of Seville.
+
+Have a look of what I'm working in!
 
 
