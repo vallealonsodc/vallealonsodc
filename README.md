@@ -14,6 +14,4 @@ You can click the Preview link to take a look at your changes.
 
 I'm a final-year student of Bsc Health Engineering in the University of Seville.
 
-Have a look of what I'm working in!
-
-
+Take a look at what I'm working on!
